@@ -1,0 +1,7 @@
+# Ignore environment files
+backend/.env
+
+# Node.js dependencies
+backend/node_modules/
+admin/node_modules/
+frontend/node_modules/
