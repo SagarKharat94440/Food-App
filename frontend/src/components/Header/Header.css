@@ -2,8 +2,10 @@
     height: 34vw;
     margin: 30px auto;
     background: url('/header_img.png' ) no-repeat;
+    border-radius: 2%;
     background-size: contain;
     position: relative;
+    overflow: hidden;
 }
 
 .header-contents{
